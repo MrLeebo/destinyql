@@ -1,2 +1,0 @@
-# destinyql
-Created with CodeSandbox

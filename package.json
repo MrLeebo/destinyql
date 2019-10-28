@@ -1,0 +1,23 @@
+{
+  "name": "destinyql",
+  "version": "1.0.0",
+  "description": "[Work In Progress] GraphQL Port of https://bungie-net.github.io",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {
+    "apollo-server": "2.9.7",
+    "dataloader": "1.4.0",
+    "graphql": "14.5.8",
+    "graphql-import": "0.7.1",
+    "graphql-scalars": "1.0.4",
+    "graphql-tools": "4.0.6",
+    "lodash": "4.17.15",
+    "node-fetch": "2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
